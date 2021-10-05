@@ -1,1 +1,1 @@
-from MathYouDidntNeed.RadianDegrees import RadiansToDegrees, DegreesToRadians
+from MathYouDidntNeed.RadianDegrees import Convert
